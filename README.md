@@ -30,10 +30,10 @@
 ---
 
 ### 📬 联系我
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin" height="30">](链接)
-[<img src="https://img.shields.io/badge/Email-D14836?logo=gmail" height="30">](mailto:邮箱)
-[<img src="https://img.shields.io/badge/Blog-FF5722?logo=wordpress" height="30">](博客链接)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin" height="30">]()
+[<img src="https://img.shields.io/badge/Email-D14836?logo=gmail" height="30">](1903094339@qq.com)
+[<img src="https://img.shields.io/badge/Blog-FF5722?logo=wordpress" height="30">](沐森)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=blueviolet" alt="访问统计" />
+  <img src="https://komarev.com/ghpvc/?username=[shenjie002]&color=blueviolet" alt="访问统计" />
 </div>
