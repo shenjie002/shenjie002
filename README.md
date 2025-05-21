@@ -23,6 +23,7 @@
 
 
 ### 🔥 近期项目
+- [electron-ai-agent2pages](链接) - (pc端)electron-react+(server)nestjs/go/java 🎉
 - [chatproject](链接) - Next.js + NestJS全栈项目 🌟
 - [划水ai](链接) -  Next.js全栈项目⚡
 - [西鲸ai](链接) - Next.js前端开发 💼
